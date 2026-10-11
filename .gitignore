@@ -47,5 +47,6 @@ app.*.map.json
 # Local Supabase credentials. Never commit the real file.
 config.json
 .env
+supabase/.temp/
 *.jks
 *.keystore
