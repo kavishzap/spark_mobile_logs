@@ -1,0 +1,10 @@
+project_id = "spark_sales"
+
+[functions.sign-in-assistant]
+verify_jwt = false
+
+[functions.enroll-device]
+verify_jwt = true
+
+[functions.sync-call-logs]
+verify_jwt = true

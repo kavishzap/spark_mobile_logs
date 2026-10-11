@@ -1,0 +1,7 @@
+{
+  "SUPABASE_URL": "https://YOUR_PROJECT.supabase.co",
+  "SUPABASE_ANON_KEY": "YOUR_ANON_KEY",
+  "ADMIN_EMAIL": "it@company.com",
+  "LOOKBACK_DAYS": "30",
+  "LOCAL_RETENTION_DAYS": "90"
+}
